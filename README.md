@@ -43,7 +43,7 @@ Workflow personalization through customization options adapts interface personal
 ---
 
 <p align="center">
-  <img src="https://doublecommander.com/screenshot.png" alt="Double Commander screenshot"/>
+  <img src="https://static.macupdate.com/screenshots/284475/m/double-commander-screenshot.png?v=1605883226" alt="Double Commander screenshot"/>
 </p>
 
 ---
