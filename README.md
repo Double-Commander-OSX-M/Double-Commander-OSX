@@ -42,12 +42,6 @@ Workflow personalization through customization options adapts interface personal
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/284475/m/double-commander-screenshot.png?v=1605883226" alt="Double Commander screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Double Commander distinguishes itself through comprehensive features beyond Finder. Unlike basic manager, advanced operations serve power user requirements comprehensively.
