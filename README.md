@@ -1,7 +1,7 @@
 # Double Commander – File Manager
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/50006/l/double-commander-logo.png?v=1605883222" width="200" alt="Double Commander icon"/>
+  <img src="https://ubuntuhandbook.org/wp-content/uploads/2015/02/double-commander-icon.png" width="200" alt="Double Commander icon"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Workflow personalization through customization options adapts interface personal
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/947647/169654708-ff3e2408-4fb9-4384-a4b8-3e7b8f61fbed.png" alt="Double Commander screenshot"/>
+  <img src="https://doublecommander.com/screenshot.png" alt="Double Commander screenshot"/>
 </p>
 
 ---
